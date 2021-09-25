@@ -1,6 +1,6 @@
 # flask-text-generation
 
-## Simple web app for text generation using pytorch and pentagram-gram model. 
+## Simple web app for text generation using pytorch and pentagram model. 
 
 This repo contains a sample code to show how to create a Flask API server by deploying our PyTorch model.
 
